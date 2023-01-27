@@ -85,3 +85,7 @@ These images are generally tricky.
 ### Group Normalization Misclassified images
 ![alt text](img/misclassified_GroupNorm.png "Title")
 
+
+
+## Solution File
+The solution file for the assigment is available here  [Normalization_Techniques.ipynb](https://github.com/TSAI-EVA8/normalization/blob/master/Normalization_Techniques.ipynb)
