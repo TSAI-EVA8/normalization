@@ -88,4 +88,6 @@ These images are generally tricky.
 
 
 ## Solution File
-The solution file for the assigment is available here  [Normalization_Techniques.ipynb](https://github.com/TSAI-EVA8/normalization/blob/master/Normalization_Techniques.ipynb)
+1. The solution file for the assigment is available here  [Normalization_Techniques_V2.ipynb](https://github.com/TSAI-EVA8/normalization/blob/master/Normalization_Techniques_V2.ipynb)
+2. The model is defined in the [model.py](https://github.com/TSAI-EVA8/normalization/blob/master/model.py)
+
